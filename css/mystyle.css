@@ -1,0 +1,39 @@
+body {
+    background-color: #adadad;
+    font-family: Arial;
+}
+
+input {
+    position: absolute;
+    left: 120px;
+}
+
+li {
+    margin-bottom: -10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #cccccc;
+}
+
+img {
+    margin: 5px;
+}
